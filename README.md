@@ -33,6 +33,8 @@ It is a full-stack hall booking management system with a working backend, fronte
 - REST API based architecture
 
 ---
+Project Video
+https://drive.google.com/file/d/1flYAgJFEHryvVahe-X9Nw91QaZQI4KkD/view?usp=sharing
 
 ## 📁 Project Structure
 
